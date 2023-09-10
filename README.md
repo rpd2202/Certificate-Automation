@@ -1,3 +1,5 @@
+#########Certificate-Automation ###############################
+
 Hi Guy this is a Simple automation for generating and sending the certificates through mail.
 Here I have a template.jpg that is the template for the certificate.
 and name.xlsx where every participants name,course,year,mail id is filled in a particular format.
