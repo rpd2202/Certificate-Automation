@@ -1,0 +1,6 @@
+pandas
+pillow 
+openpyxl
+email
+asyncio
+pyopenssl
